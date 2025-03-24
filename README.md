@@ -32,5 +32,4 @@ The tables are listed as follows:
 - Table 52. Native Hawaiian or Other Pacific Islander Producers: 2017
 - Table 53. White Producers: 2017
 - Table 54. Producers Reporting More Than One Race: 2017
-
 - American Indian Reservations
