@@ -1,6 +1,10 @@
 # USAgWorkerData
 A repository for storing data and analyses related to US agricultural workers
 
+Cartographic boundary files from the United States Census Bureau: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+-  American Indian/Alaska Native Areas/Hawaiian Home Lands: `cb_2018_us_aiannh_500k`
+-  Nation-based files: States: `cb_2018_us_state_500k`
+
 Data and information from the US Department of Labor National Agricultural Workers Survey: https://www.dol.gov/agencies/eta/national-agricultural-workers-survey/data
 
 USDA data from National Agricultural Statistics Service, the 2017 Census of Agriculture data: https://www.nass.usda.gov/Statistics_by_Subject/Demographics/index.php
