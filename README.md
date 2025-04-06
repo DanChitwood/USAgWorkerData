@@ -9,6 +9,10 @@ Data and information from the US Department of Labor National Agricultural Worke
 
 USDA data from National Agricultural Statistics Service, the 2017 Census of Agriculture data: https://www.nass.usda.gov/Statistics_by_Subject/Demographics/index.php
 
+Data on hectares of agriculture per Mexican state from INEGI (Instituto Nacional de Estadística y Geografía), Agricultural Census 2022: https://en.www.inegi.org.mx/programas/ca/2022/#tabular_data (accessed 6 April 2025)
+
+Data on emigratin from Mexico states from INEGI (Instituto Nacional de Estadística y Geografía), for the years 2000, 2010, and 2020: https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Migracion_Migracion_01_426da5e7-766a-42a9-baef-5768cde4fca9&idrt=130&opc=t (accessed 6 April 2025)
+
 The tables are listed as follows:
 
 **Volume 1 Chapter 1: U.S. National Level Data**
