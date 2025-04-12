@@ -40,9 +40,15 @@ The tables are listed as follows:
 - American Indian Reservations
 (accessed 6 April 2025)
 
+Data on ethnicity of US state populations from the 2020 US Census: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_race_and_ethnicity (accessed 12 April 2025)
+
 Data on hectares of agriculture per Mexican state from INEGI (Instituto Nacional de Estadística y Geografía), Agricultural Census 2022: https://en.www.inegi.org.mx/programas/ca/2022/#tabular_data (accessed 6 April 2025)
 
 Data on emigration from Mexico states from INEGI (Instituto Nacional de Estadística y Geografía), for the years 2000, 2010, and 2020: https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Migracion_Migracion_01_426da5e7-766a-42a9-baef-5768cde4fca9&idrt=130&opc=t (accessed 6 April 2025)
 
 Data on ICE detention from the Office of Homeland Security Statistics: https://ohss.dhs.gov/khsm/ice-detentions (accessed 12 April 2025)
 
+**Figure legends:**
+**Figure 1: A comparison of land ownership and the United States population. A)** Land ownership in each state by ethnicity. Each pixel represents 75,000 acres. Data is from the United States Department of Agriculture (USDA) Agricultural Statistics Service (ARS) 2017 Census of Agriculture. Colors corresponding to ethnicity are provided. **B)** A map of US American Indian nations (in black). Each orange pixel represents 75,000 acres of farm land within a nation. Data is from the USDA ARS 2017 Census of Agriculture for American Indian Reservations. **C)** The population of each state by ethnicity. Each pixel represents 130,830 people. Data is from the 2020 US Census. Colors corresponding to ethnicity are provided.
+
+**Figure 2: **
