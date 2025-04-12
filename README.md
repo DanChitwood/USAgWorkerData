@@ -48,7 +48,10 @@ Data on emigration from Mexico states from INEGI (Instituto Nacional de Estadís
 
 Data on ICE detention from the Office of Homeland Security Statistics: https://ohss.dhs.gov/khsm/ice-detentions (accessed 12 April 2025)
 
-**Figure legends:**
-**Figure 1: A comparison of land ownership and the United States population. A)** Land ownership in each state by ethnicity. Each pixel represents 75,000 acres. Data is from the United States Department of Agriculture (USDA) Agricultural Statistics Service (ARS) 2017 Census of Agriculture. Colors corresponding to ethnicity are provided. **B)** A map of US American Indian nations (in black). Each orange pixel represents 75,000 acres of farm land within a nation. Data is from the USDA ARS 2017 Census of Agriculture for American Indian Reservations. **C)** The population of each state by ethnicity. Each pixel represents 130,830 people. Data is from the 2020 US Census. Colors corresponding to ethnicity are provided.
+**Figure legends:**  
+  
+**Figure 1: A comparison of land ownership and the United States population. A)** Land ownership in each state by ethnicity. Each pixel represents 75,000 acres. Data is from the United States Department of Agriculture (USDA) Agricultural Statistics Service (ARS) 2017 Census of Agriculture. Colors corresponding to ethnicity are provided. **B)** A map of US American Indian nations (in black). Each orange pixel represents 75,000 acres of farm land within a nation. Data is from the USDA ARS 2017 Census of Agriculture for American Indian Reservations. **C)** The population of each state by ethnicity. Each pixel represents 130,830 people. Data is from the 2020 US Census. Colors corresponding to ethnicity are provided.  
 
-**Figure 2: **
+**Figure 2: Farm labor in the United States. A)** Six regions used in the US Department of Labor National Agricultural Workers Survey (NAWS). Visualizations of responses by region and statistical fiscal year reporting periods for the following interview questions: **B)** Current legal status, **C)** interview language, **D)** if foreign born, country of origin, and **E)** if foreign born, state in country of origin. Up to seven of the most common responses are provided and the remainder are included as "other". Colors corresponding to each response are provided and summarized as a proportion.  
+
+
