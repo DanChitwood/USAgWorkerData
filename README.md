@@ -42,7 +42,7 @@ The tables are listed as follows:
 
 Data on hectares of agriculture per Mexican state from INEGI (Instituto Nacional de Estadística y Geografía), Agricultural Census 2022: https://en.www.inegi.org.mx/programas/ca/2022/#tabular_data (accessed 6 April 2025)
 
-Data on emigratin from Mexico states from INEGI (Instituto Nacional de Estadística y Geografía), for the years 2000, 2010, and 2020: https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Migracion_Migracion_01_426da5e7-766a-42a9-baef-5768cde4fca9&idrt=130&opc=t (accessed 6 April 2025)
+Data on emigration from Mexico states from INEGI (Instituto Nacional de Estadística y Geografía), for the years 2000, 2010, and 2020: https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Migracion_Migracion_01_426da5e7-766a-42a9-baef-5768cde4fca9&idrt=130&opc=t (accessed 6 April 2025)
 
 Data on ICE detention from the Office of Homeland Security Statistics: https://ohss.dhs.gov/khsm/ice-detentions (accessed 12 April 2025)
 
